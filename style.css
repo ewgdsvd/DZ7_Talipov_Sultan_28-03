@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.riddle {
+  margin-bottom: 20px;
+}
+
+.answer {
+  margin-top: 5px;
+  font-style: italic;
+  display: none;
+}
